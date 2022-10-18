@@ -27,7 +27,7 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: org24837919.crm8.dynamics.com
-  USERNAME: admin1@DLPsolution.onmicrosoft.com
+  USERNAME: Powerappsgitrepo
 
 
 jobs:
